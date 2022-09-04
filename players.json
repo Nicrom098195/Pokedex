@@ -11,6 +11,14 @@
 		"gabriele":{
 		    "name":"Gabriele",
 		    "pokemons":"➤6-Charizard<br>➤553-Krokodile<br>➤579-Reuniclus<br>➤742-Cutiefly<br>"
+		},
+		"davide":{
+			"name":"Davide";
+			"pokemons":"➤6-Charizard<br>➤561-Sigilyph<br>➤799-Guzzlord<br>"
+		},
+		"caterina"{
+			"name":"Caterina",
+			"pokemons":"➤130-Gyarados<br>➤540-Sewaddle<br>➤339-Barboach<br>"
 		}
 	}
 }
