@@ -41,36 +41,36 @@
 			"sattack":"Palla Ombra"
 		},
 		"rock":{
-			"attack":"",
-			"sattack":""
+			"attack":"Frana",
+			"sattack":"Pietrataglio"
 		},
 		"ground":{
-			"attack":"",
-			"sattack":""
+			"attack":"Turbosabbia",
+			"sattack":"Fossa"
 		},
 		"steel":{
-			"attack":"",
-			"sattack":""
+			"attack":"Cannonflash",
+			"sattack":"Metaltestata"
 		},
 		"dark":{
-			"attack":"",
-			"sattack":""
+			"attack":"Morso",
+			"sattack":"Neropulsar"
 		},
 		"psychic":{
-			"attack":"",
-			"sattack":""
+			"attack":"Psichico",
+			"sattack":"Riflesso"
 		},
 		"fairy":{
-			"attack":"",
-			"sattack":""
+			"attack":"Incantavoce",
+			"sattack":"Campo Nebbioso"
 		},
 		"dragon":{
-			"attack":"",
-			"sattack":""
+			"attack":"Ira di drago",
+			"sattack":"Dragofuria"
 		},
 		"poison":{
-			"attack":"",
-			"sattack":""
+			"attack":"Velenogas",
+			"sattack":"Tossina"
 		}
 	}
 	"players":{
